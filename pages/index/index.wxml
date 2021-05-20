@@ -1,0 +1,11 @@
+<!--index.wxml-->
+
+
+<view class="bodyContent"> 
+  <view>
+      <button class="push"  bindtap="add" plain = "true">上传图片</button>
+      <button class="push" bindtap="remove" plain = "true">查询记录</button>
+    </view>
+</view>
+
+
